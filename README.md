@@ -3,6 +3,7 @@
 # Drum Master - Rhythm Game
 
 A 90s-era style handheld electronic rhythm game inspired by classics like Bop It and Brain Warp. Built with ESP32 microcontroller and CircuitPython.
+![3670e25e02c3fd3daf6358000b388e39](https://github.com/user-attachments/assets/b6910195-5855-49d6-a015-e10e8deda08e)
 
 ---
 
