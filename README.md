@@ -4,8 +4,6 @@
 
 A 90s-era style handheld electronic rhythm game inspired by classics like Bop It and Brain Warp. Built with ESP32 microcontroller and CircuitPython.
 
-![3670e25e02c3fd3daf6358000b388e39.jpg](README/3670e25e02c3fd3daf6358000b388e39.jpg)
-
 ---
 
 ## Table of Contents
@@ -16,7 +14,6 @@ A 90s-era style handheld electronic rhythm game inspired by classics like Bop It
 - [Hardware Components](about:blank#hardware-components)
 - [Wiring Diagram](about:blank#wiring-diagram)
 - [Enclosure Design](about:blank#enclosure-design)
-- [Installation](about:blank#installation)
 - [File Structure](about:blank#file-structure)
 
 ---
